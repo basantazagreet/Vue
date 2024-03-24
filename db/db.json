@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "name": "Basanta Sapkota",
+      "email": "basantazagreet@gmail.com",
+      "password": "123@abc"
+    },
+    {
+      "id": 2,
+      "name": "Hemanta Sapkota",
+      "email": "hmnt.spk@gmail.com",
+      "password": "123@abc"
+    },
+    {
+      "name": "Diwas Kandel",
+      "email": "diwas.kandel@gmail.com",
+      "password": "diwas123",
+      "id": 3
+    },
+    {
+      "name": "Badri Sapkota",
+      "email": "badri.sapkota@gmail.com",
+      "password": "Badri123",
+      "id": 4
+    }
+  ],
+  "Restaurants": [
+    {
+      "name": "Mcdonald's",
+      "Address": "N 19th street",
+      "contact": "11111",
+      "id": 1
+    },
+    {
+      "name": "Canes",
+      "Address": "Highway 80",
+      "contact": "2222",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "Address": "Highway 165",
+      "contact": "3333"
+    },
+    {
+      "id": 4,
+      "name": "Wendy's",
+      "Address": "Highway 165",
+      "contact": "4444"
+    },
+    {
+      "name": "Hungry Tom's Restaurant",
+      "address": "Pulchowk",
+      "contact": "999999",
+      "id": 5
+    }
+  ]
+}
